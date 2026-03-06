@@ -15,15 +15,7 @@ db = SQLAlchemy(app)
 class Player(db.Model):
 
     id = db.Column(db.Integer, primary_key=True)
-    class Player(db.Model):
-
-    id = db.Column(db.Integer, primary_key=True)
     player_name = db.Column(db.String(100), unique=True)
-    team = db.Column(db.String(50))
-    role = db.Column(db.String(50))
-    country = db.Column(db.String(50))
-    base_price = db.Column(db.Integer)
-    current_bid = db.Column(db.Integer)
     team = db.Column(db.String(50))
     role = db.Column(db.String(50))
     country = db.Column(db.String(50))
