@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bid Player</title>
+</head>
+
+<body>
+
+<h2>{{ player.player_name }}</h2>
+
+<p>Current Bid: {{ player.current_bid }}</p>
+
+<form method="POST">
+
+<input type="number" name="bid" required>
+
+<button type="submit">Place Bid</button>
+
+</form>
+
+<br>
+
+<a href="/">Back</a>
+
+</body>
+</html>
