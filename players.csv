@@ -1,113 +1,113 @@
 player_name,team,role,country,base_price
-Virat Kohli,,Batsman,India,200
-Rohit Sharma,,Batsman,India,200
-KL Rahul,,Batsman,India,180
-Shubman Gill,,Batsman,India,180
-Shikhar Dhawan,,Batsman,India,150
-Suryakumar Yadav,,Batsman,India,180
-Ruturaj Gaikwad,,Batsman,India,150
-Ishan Kishan,,Wicketkeeper,India,160
-Sanju Samson,,Wicketkeeper,India,160
-Rishabh Pant,,Wicketkeeper,India,200
-Hardik Pandya,,All-rounder,India,200
-Ravindra Jadeja,,All-rounder,India,200
-Axar Patel,,All-rounder,India,150
-Washington Sundar,,All-rounder,India,140
-Deepak Hooda,,All-rounder,India,120
-Shardul Thakur,,All-rounder,India,130
-Ravichandran Ashwin,,All-rounder,India,150
-Yuzvendra Chahal,,Bowler,India,150
-Kuldeep Yadav,,Bowler,India,140
-Jasprit Bumrah,,Bowler,India,200
-Mohammed Shami,,Bowler,India,180
-Mohammed Siraj,,Bowler,India,170
-Bhuvneshwar Kumar,,Bowler,India,160
-Arshdeep Singh,,Bowler,India,150
-Avesh Khan,,Bowler,India,140
-Prasidh Krishna,,Bowler,India,140
-Umran Malik,,Bowler,India,140
-Mayank Yadav,,Bowler,India,130
-Mukesh Kumar,,Bowler,India,120
-T Natarajan,,Bowler,India,140
+Virat Kohli,RCB,Batsman,India,200
+Rohit Sharma,MI,Batsman,India,200
+KL Rahul,LSG,Batsman,India,180
+Shubman Gill,GT,Batsman,India,180
+Shikhar Dhawan,PBKS,Batsman,India,150
+Suryakumar Yadav,MI,Batsman,India,180
+Ruturaj Gaikwad,CSK,Batsman,India,150
+Ishan Kishan,MI,Wicketkeeper,India,160
+Sanju Samson,RR,Wicketkeeper,India,160
+Rishabh Pant,DC,Wicketkeeper,India,200
+Hardik Pandya,MI,All-rounder,India,200
+Ravindra Jadeja,CSK,All-rounder,India,200
+Axar Patel,DC,All-rounder,India,150
+Washington Sundar,SRH,All-rounder,India,140
+Deepak Hooda,LSG,All-rounder,India,120
+Shardul Thakur,CSK,All-rounder,India,130
+Ravichandran Ashwin,RR,All-rounder,India,150
+Yuzvendra Chahal,RR,Bowler,India,150
+Kuldeep Yadav,DC,Bowler,India,140
+Jasprit Bumrah,MI,Bowler,India,200
+Mohammed Shami,GT,Bowler,India,180
+Mohammed Siraj,RCB,Bowler,India,170
+Bhuvneshwar Kumar,SRH,Bowler,India,160
+Arshdeep Singh,PBKS,Bowler,India,150
+Avesh Khan,LSG,Bowler,India,140
+Prasidh Krishna,RR,Bowler,India,140
+Umran Malik,SRH,Bowler,India,140
+Mayank Yadav,LSG,Bowler,India,130
+Mukesh Kumar,DC,Bowler,India,120
+T Natarajan,SRH,Bowler,India,140
 
-Jos Buttler,,Wicketkeeper,England,200
-Jonny Bairstow,,Wicketkeeper,England,180
-Phil Salt,,Wicketkeeper,England,160
-Ben Stokes,,All-rounder,England,200
-Sam Curran,,All-rounder,England,190
-Moeen Ali,,All-rounder,England,170
-Liam Livingstone,,All-rounder,England,180
-Chris Woakes,,All-rounder,England,150
-Reece Topley,,Bowler,England,140
-Mark Wood,,Bowler,England,160
-Jofra Archer,,Bowler,England,180
-Adil Rashid,,Bowler,England,140
+Jos Buttler,RR,Wicketkeeper,England,200
+Jonny Bairstow,PBKS,Wicketkeeper,England,180
+Phil Salt,KKR,Wicketkeeper,England,160
+Ben Stokes,CSK,All-rounder,England,200
+Sam Curran,PBKS,All-rounder,England,190
+Moeen Ali,CSK,All-rounder,England,170
+Liam Livingstone,PBKS,All-rounder,England,180
+Chris Woakes,RCB,All-rounder,England,150
+Reece Topley,RCB,Bowler,England,140
+Mark Wood,LSG,Bowler,England,160
+Jofra Archer,MI,Bowler,England,180
+Adil Rashid,SRH,Bowler,England,140
 
-David Warner,,Batsman,Australia,200
-Steve Smith,,Batsman,Australia,180
-Travis Head,,Batsman,Australia,180
-Marnus Labuschagne,,Batsman,Australia,150
-Mitchell Marsh,,All-rounder,Australia,180
-Glenn Maxwell,,All-rounder,Australia,200
-Marcus Stoinis,,All-rounder,Australia,170
-Cameron Green,,All-rounder,Australia,180
-Pat Cummins,,Bowler,Australia,200
-Mitchell Starc,,Bowler,Australia,200
-Josh Hazlewood,,Bowler,Australia,180
-Adam Zampa,,Bowler,Australia,160
+David Warner,DC,Batsman,Australia,200
+Steve Smith,Unsold,Batsman,Australia,180
+Travis Head,SRH,Batsman,Australia,180
+Marnus Labuschagne,Unsold,Batsman,Australia,150
+Mitchell Marsh,DC,All-rounder,Australia,180
+Glenn Maxwell,RCB,All-rounder,Australia,200
+Marcus Stoinis,LSG,All-rounder,Australia,170
+Cameron Green,RCB,All-rounder,Australia,180
+Pat Cummins,SRH,Bowler,Australia,200
+Mitchell Starc,KKR,Bowler,Australia,200
+Josh Hazlewood,RCB,Bowler,Australia,180
+Adam Zampa,RR,Bowler,Australia,160
 
-Kane Williamson,,Batsman,New Zealand,180
-Devon Conway,,Batsman,New Zealand,170
-Daryl Mitchell,,All-rounder,New Zealand,170
-Mitchell Santner,,All-rounder,New Zealand,160
-James Neesham,,All-rounder,New Zealand,150
-Trent Boult,,Bowler,New Zealand,190
-Tim Southee,,Bowler,New Zealand,170
-Lockie Ferguson,,Bowler,New Zealand,170
-Matt Henry,,Bowler,New Zealand,150
-Ish Sodhi,,Bowler,New Zealand,140
+Kane Williamson,GT,Batsman,New Zealand,180
+Devon Conway,CSK,Batsman,New Zealand,170
+Daryl Mitchell,CSK,All-rounder,New Zealand,170
+Mitchell Santner,CSK,All-rounder,New Zealand,160
+James Neesham,RR,All-rounder,New Zealand,150
+Trent Boult,RR,Bowler,New Zealand,190
+Tim Southee,KKR,Bowler,New Zealand,170
+Lockie Ferguson,RCB,Bowler,New Zealand,170
+Matt Henry,LSG,Bowler,New Zealand,150
+Ish Sodhi,GT,Bowler,New Zealand,140
 
-Babar Azam,,Batsman,Pakistan,200
-Mohammad Rizwan,,Wicketkeeper,Pakistan,190
-Fakhar Zaman,,Batsman,Pakistan,170
-Imam-ul-Haq,,Batsman,Pakistan,150
-Shadab Khan,,All-rounder,Pakistan,180
-Mohammad Nawaz,,All-rounder,Pakistan,150
-Shaheen Afridi,,Bowler,Pakistan,200
-Haris Rauf,,Bowler,Pakistan,180
-Naseem Shah,,Bowler,Pakistan,170
+Babar Azam,Unsold,Batsman,Pakistan,200
+Mohammad Rizwan,Unsold,Wicketkeeper,Pakistan,190
+Fakhar Zaman,Unsold,Batsman,Pakistan,170
+Imam-ul-Haq,Unsold,Batsman,Pakistan,150
+Shadab Khan,Unsold,All-rounder,Pakistan,180
+Mohammad Nawaz,Unsold,All-rounder,Pakistan,150
+Shaheen Afridi,Unsold,Bowler,Pakistan,200
+Haris Rauf,Unsold,Bowler,Pakistan,180
+Naseem Shah,Unsold,Bowler,Pakistan,170
 
-Quinton de Kock,,Wicketkeeper,South Africa,180
-Aiden Markram,,All-rounder,South Africa,170
-Heinrich Klaasen,,Wicketkeeper,South Africa,180
-David Miller,,Batsman,South Africa,170
-Kagiso Rabada,,Bowler,South Africa,190
-Anrich Nortje,,Bowler,South Africa,180
-Tabraiz Shamsi,,Bowler,South Africa,150
-Lungi Ngidi,,Bowler,South Africa,160
+Quinton de Kock,LSG,Wicketkeeper,South Africa,180
+Aiden Markram,SRH,All-rounder,South Africa,170
+Heinrich Klaasen,SRH,Wicketkeeper,South Africa,180
+David Miller,GT,Batsman,South Africa,170
+Kagiso Rabada,PBKS,Bowler,South Africa,190
+Anrich Nortje,DC,Bowler,South Africa,180
+Tabraiz Shamsi,RR,Bowler,South Africa,150
+Lungi Ngidi,CSK,Bowler,South Africa,160
 
-Wanindu Hasaranga,,All-rounder,Sri Lanka,180
-Maheesh Theekshana,,Bowler,Sri Lanka,160
-Kusal Mendis,,Wicketkeeper,Sri Lanka,150
-Charith Asalanka,,Batsman,Sri Lanka,140
-Pathum Nissanka,,Batsman,Sri Lanka,140
+Wanindu Hasaranga,RCB,All-rounder,Sri Lanka,180
+Maheesh Theekshana,CSK,Bowler,Sri Lanka,160
+Kusal Mendis,GT,Wicketkeeper,Sri Lanka,150
+Charith Asalanka,Unsold,Batsman,Sri Lanka,140
+Pathum Nissanka,Unsold,Batsman,Sri Lanka,140
 
-Shakib Al Hasan,,All-rounder,Bangladesh,170
-Mustafizur Rahman,,Bowler,Bangladesh,160
-Litton Das,,Wicketkeeper,Bangladesh,150
-Taskin Ahmed,,Bowler,Bangladesh,150
-Mehidy Hasan Miraz,,All-rounder,Bangladesh,150
+Shakib Al Hasan,KKR,All-rounder,Bangladesh,170
+Mustafizur Rahman,DC,Bowler,Bangladesh,160
+Litton Das,KKR,Wicketkeeper,Bangladesh,150
+Taskin Ahmed,Unsold,Bowler,Bangladesh,150
+Mehidy Hasan Miraz,Unsold,All-rounder,Bangladesh,150
 
-Nicholas Pooran,,Wicketkeeper,West Indies,190
-Shimron Hetmyer,,Batsman,West Indies,170
-Rovman Powell,,All-rounder,West Indies,160
-Andre Russell,,All-rounder,West Indies,200
-Jason Holder,,All-rounder,West Indies,180
-Alzarri Joseph,,Bowler,West Indies,170
-Akeal Hosein,,Bowler,West Indies,150
+Nicholas Pooran,LSG,Wicketkeeper,West Indies,190
+Shimron Hetmyer,RR,Batsman,West Indies,170
+Rovman Powell,DC,All-rounder,West Indies,160
+Andre Russell,KKR,All-rounder,West Indies,200
+Jason Holder,RR,All-rounder,West Indies,180
+Alzarri Joseph,GT,Bowler,West Indies,170
+Akeal Hosein,SRH,Bowler,West Indies,150
 
-Rahmanullah Gurbaz,,Wicketkeeper,Afghanistan,160
-Rashid Khan,,All-rounder,Afghanistan,200
-Mohammad Nabi,,All-rounder,Afghanistan,170
-Fazalhaq Farooqi,,Bowler,Afghanistan,150
-Mujeeb Ur Rahman,,Bowler,Afghanistan,160
+Rahmanullah Gurbaz,KKR,Wicketkeeper,Afghanistan,160
+Rashid Khan,GT,All-rounder,Afghanistan,200
+Mohammad Nabi,MI,All-rounder,Afghanistan,170
+Fazalhaq Farooqi,SRH,Bowler,Afghanistan,150
+Mujeeb Ur Rahman,PBKS,Bowler,Afghanistan,160
